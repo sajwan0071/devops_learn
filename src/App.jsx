@@ -3,8 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <h1>brooo done yrr</h1>
-      
+      <h1>What do you mean yrr</h1>
     </div>
   )
 }
